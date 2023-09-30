@@ -17,10 +17,9 @@ The Fast Food Menu App is designed to provide users with a delightful experience
 
 ![Home Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/screenshot1.jpg)
 ![Home Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/screenshot2.jpg)
-*Caption: The home screen showcases a stunning array of fast food options.*
 ![Detail Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/screenshot3.jpg)
 ![Detail Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/screenshot4.jpg)
-*Caption: The detail screen provides comprehensive information about a selected menu item.*
+
 ## Getting Started
 
 Follow these steps to get a copy of the project up and running on your local machine.
