@@ -1,6 +1,6 @@
 # Konstructora
 
-Welcome to the Fast Food Menu App, a Flutter-based application with a beautiful and attractive UI design for exploring fast food menus.
+Welcome to the Konstructora App UI Design repository! a Flutter-based application with a beautiful and attractive UI design for exploring fast food menus.
 
 ## Overview
 
